@@ -1,0 +1,5 @@
+146.71.92.135
+22
+hadi234parspooyesh
+
+python /usr/local/src/tools/custom/proxy/PythonProxy.py
